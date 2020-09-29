@@ -1,0 +1,8 @@
+subprocess
+re
+psutil
+scapy-python3
+testresources
+socket
+Queue
+argsparse
